@@ -37,7 +37,6 @@ namespace ClassMethodsDemo
                 Console.WriteLine(customer.CustormerName + " " + customer.CustomerSurname + " isimli müşteri bireysel emeklilik şartlarını sağlamaktadır.");
             }
 
-
         }
     }
 }
